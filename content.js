@@ -19,7 +19,7 @@ catch (err) {
 
 //setTimeout(ClickTheLink,10000);
 //function ClickTheLink() { console.log("Clicked"); }
-
+// Test Commit
 
 function skipAd(){
     console.log('myFunction Called')
